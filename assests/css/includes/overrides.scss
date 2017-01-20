@@ -1,0 +1,16 @@
+.ecwd_calendar, 
+.ecwd_calendar_prev_next, 
+.calendar-head .previous, 
+.calendar-head .next {
+    box-shadow: none !important;
+}
+.calendar-head, 
+.current-month {
+    text-shadow: none !important;
+    color: $black;
+    font-size: 2rem;
+	font-family: $gotham-book !important;
+}
+span {
+    text-shadow: none !important;
+}

@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab");
+@font-face {
+  font-family: gotham-book;
+  src: url("assests/fonts/gothamhtf-book-webfont.ttf"); }
+@font-face {
+  font-family: gotham-thin;
+  src: url("assests/fonts/Gotham-Thin.otf"); }
+@font-face {
+  font-family: gotham-ultra;
+  src: url("assests/fonts/Gotham-Ultra.otf"); }
+@font-face {
+  font-family: round-gotham;
+  src: url("assests/fonts/GothamRounded-Book.ttf"); }
+@font-face {
+  font-family: round-italic;
+  src: url("assests/fonts/GothamRounded-BookItalic.ttf"); }
+@font-face {
+  font-family: round-thin;
+  src: url("assests/fonts/GothamRnd-Light.otf"); }
+@font-face {
+  font-family: round-ultra;
+  src: url("assests/fonts/GothamRounded-Bold.ttf"); }
+/* fonts */
+/* primary n' oranges */
+/* darkest */
+/* lightest */
+/* primary hovers*/
+/* secondary */
+/* accents */
+/* accent hovers*/
+/* font-sizes */
+/* screensize */

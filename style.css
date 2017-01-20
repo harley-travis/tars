@@ -1,0 +1,136 @@
+/*
+Theme Name: T.A.R.S
+Theme URI: http://trust.rizepoint.com
+Author: Travis Harley
+Author URI: http://wordpress.org/
+Description: This template was built for RizePoint to use to keep their customers updated on the status of their servers.  
+Version: 1.0
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+/* VARIABLES */
+@import url("https://fonts.googleapis.com/css?family=Roboto+Slab");
+@font-face {
+  font-family: gotham-book;
+  src: url("assests/fonts/gothamhtf-book-webfont.ttf"); }
+@font-face {
+  font-family: gotham-thin;
+  src: url("assests/fonts/Gotham-Thin.otf"); }
+@font-face {
+  font-family: gotham-ultra;
+  src: url("assests/fonts/Gotham-Ultra.otf"); }
+@font-face {
+  font-family: round-gotham;
+  src: url("assests/fonts/GothamRounded-Book.ttf"); }
+@font-face {
+  font-family: round-italic;
+  src: url("assests/fonts/GothamRounded-BookItalic.ttf"); }
+@font-face {
+  font-family: round-thin;
+  src: url("assests/fonts/GothamRnd-Light.otf"); }
+@font-face {
+  font-family: round-ultra;
+  src: url("assests/fonts/GothamRounded-Bold.ttf"); }
+/* fonts */
+/* primary n' oranges */
+/* darkest */
+/* lightest */
+/* primary hovers*/
+/* secondary */
+/* accents */
+/* accent hovers*/
+/* font-sizes */
+/* screensize */
+/* GENERALS */
+h1, h2, h3 {
+  font-family: gotham-book; }
+
+p {
+  font-family: gotham-book; }
+
+/* OVERRIDES */
+.ecwd_calendar,
+.ecwd_calendar_prev_next,
+.calendar-head .previous,
+.calendar-head .next {
+  box-shadow: none !important; }
+
+.calendar-head,
+.current-month {
+  text-shadow: none !important;
+  color: #2c2929;
+  font-size: 2rem;
+  font-family: gotham-book !important; }
+
+span {
+  text-shadow: none !important; }
+
+/* HEADER */
+header {
+  padding-top: 25px; }
+
+.header-wrapper {
+  border-bottom: 1px solid #bbbcbc;
+  padding-bottom: 20px; }
+
+/* IMGS AND ICONS */
+/* IMAGES */
+.logo-img {
+  width: 100%;
+  max-width: 300px; }
+
+/* ICONS */
+.green {
+  color: green; }
+
+.red {
+  color: #D9534F; }
+
+.yellow {
+  color: #F0AD4E; }
+
+.gray {
+  color: #6b6b6b; }
+
+/* MAIN NAV */
+.main-nav ul {
+  padding: 0; }
+.main-nav li {
+  list-style: none;
+  text-align: right; }
+
+/* SECTIONS */
+.server-status-wrapper {
+  padding: 70px 0 35px 0; }
+
+.status-icon-wrapper {
+  text-align: center; }
+
+.status-icon {
+  font-size: 15rem; }
+
+.status-icon-msg {
+  padding-top: 20px; }
+
+.calendar {
+  padding: 50px 0 50px 0; }
+
+/* CALENDAR */
+.type {
+  border-bottom: 2px solid #fc842a; }
+
+#ecwd-events-content {
+  padding-top: 50px; }
+
+.ecwd_map_div {
+  display: none; }
+
+/* FOOTER */
+footer {
+  padding-bottom: 50px; }
+
+.copyright {
+  text-align: right;
+  border-top: 1px solid #bbbcbc;
+  padding-top: 15px; }

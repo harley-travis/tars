@@ -1,0 +1,38 @@
+/*
+Theme Name: T.A.R.S
+Theme URI: http://trust.rizepoint.com
+Author: Travis Harley
+Author URI: http://wordpress.org/
+Description: This template was built for RizePoint to use to keep their customers updated on the status of their servers.  
+Version: 1.0
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/* VARIABLES */
+@import "assests/css/includes/variables";
+
+/* GENERALS */
+@import "assests/css/includes/generals";
+
+/* OVERRIDES */
+@import "assests/css/includes/overrides";
+
+/* HEADER */
+@import "assests/css/includes/header";
+
+/* IMGS AND ICONS */
+@import "assests/css/includes/img";
+
+/* MAIN NAV */
+@import "assests/css/includes/main-nav";
+
+/* SECTIONS */
+@import "assests/css/includes/sections";
+
+/* CALENDAR */
+@import "assests/css/includes/calendar";
+
+/* FOOTER */
+@import "assests/css/includes/footer";

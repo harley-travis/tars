@@ -1,0 +1,14 @@
+.server-status-wrapper {
+  padding: 70px 0 35px 0; }
+
+.status-icon-wrapper {
+  text-align: center; }
+
+.status-icon {
+  font-size: 15rem; }
+
+.status-icon-msg {
+  padding-top: 20px; }
+
+.calendar {
+  padding: 50px 0 50px 0; }
