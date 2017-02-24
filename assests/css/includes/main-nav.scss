@@ -1,9 +1,33 @@
 .main-nav{
+	
+	padding-top: 15px;
+	
 	ul{
 		padding: 0;
+		float: right;
 	}
 	li{
 		list-style: none;
 		text-align: right;
 	}
+	a{
+		color: #8A898A;
+	}
+}
+.mobile-ham-wrapper {
+    margin-top: 10px;
+	text-align: right;
+}
+.mobile-nav{
+	display: none;
+	
+	li{
+		border-bottom: 1px solid #bbbcbc;
+	}
+	a{
+		color: #8A898A;
+	}
+}
+a.menu-link {
+	display: none;
 }

@@ -1,8 +1,24 @@
-/***********************************
-   MAIN-NAV
-***********************************/
-.main-nav ul {
-  padding: 0; }
-.main-nav li {
-  list-style: none;
+.main-nav {
+  padding-top: 15px; }
+  .main-nav ul {
+    padding: 0;
+    float: right; }
+  .main-nav li {
+    list-style: none;
+    text-align: right; }
+  .main-nav a {
+    color: #8A898A; }
+
+.mobile-ham-wrapper {
+  margin-top: 10px;
   text-align: right; }
+
+.mobile-nav {
+  display: none; }
+  .mobile-nav li {
+    border-bottom: 1px solid #bbbcbc; }
+  .mobile-nav a {
+    color: #8A898A; }
+
+a.menu-link {
+  display: none; }

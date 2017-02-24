@@ -1,4 +1,4 @@
-	<footer>
+	<footer class="wrap push">
 		<div class="container footer-wrapper">
 			<div class="copyright">
 				<span><?php echo date('Y'); ?> &copy; RizePoint.com | All Rights Reserved</span>
@@ -7,8 +7,8 @@
 	</footer>
 	
 	<!-- JS -->
-	<script src="<?php bloginfo('template_directory'); ?>/assests/js/jquery-1.12.4.min.js"></script>
 	<script src="<?php bloginfo('template_directory'); ?>/assests/js/bootstrap.min.js"></script>
+	
 	<?php wp_footer(); ?>
 	</body>
 </html>

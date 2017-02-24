@@ -1,0 +1,15 @@
+.doc-wrapper h2 {
+  padding-bottom: 15px;
+  border-bottom: 2px solid #FCB040;
+  max-width: 700px;
+  margin-bottom: 35px; }
+
+.doc-wrapper {
+  padding: 30px 0 100px 30px; }
+
+.document {
+  padding-bottom: 25px;
+  padding-left: 15px; }
+
+.icon-pad {
+  padding-right: 7px; }

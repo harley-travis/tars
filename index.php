@@ -10,7 +10,7 @@
  */
 get_header(); ?>
 
-<section class="container-fluid server-status">
+<section class="container-fluid server-status wrap push">
 	<div class="container server-status-wrapper">
 		<div class="row">
 			<div class="col-md-5 col-xs-12 status">
@@ -63,7 +63,7 @@ get_header(); ?>
 	</div><!-- server-status-wrapper -->
 </section><!-- server-status -->
 
-<section class="container-fluid calendar">
+<section class="container-fluid calendar wrap push">
 	<div class="container calendar-wrapper">
 		<?php the_field('calendar_shortcode'); ?>
 	</div><!-- calendar-wrapper -->

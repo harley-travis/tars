@@ -16,6 +16,9 @@ Use it to make something cool, have fun, and share what you've learned with othe
 /* GENERALS */
 @import "assests/css/includes/generals";
 
+/* BIGSLIDE */
+@import "assests/css/includes/bigslide";
+
 /* OVERRIDES */
 @import "assests/css/includes/overrides";
 
@@ -34,5 +37,11 @@ Use it to make something cool, have fun, and share what you've learned with othe
 /* CALENDAR */
 @import "assests/css/includes/calendar";
 
+/* DOCUMENTATION */
+@import "assests/css/includes/documentation";
+
 /* FOOTER */
 @import "assests/css/includes/footer";
+
+/* MOBILE STYLING */
+@import "assests/css/includes/mobile";
